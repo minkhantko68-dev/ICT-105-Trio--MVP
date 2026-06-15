@@ -30,7 +30,7 @@ https://github.com/minkhantko68-dev/ICT-105-Quartet-MVP.git
   - docs/team-profile.md
   - docs/weekly-logbook.md
 
-- Commit link: 
+- Commit link: https://github.com/minkhantko68-dev/ICT-105-Quartet-MVP/commit/87c66f5dbe9c4d6c729de03629e5c6049a05a80d
 
 ### Decision Made This Week
 
